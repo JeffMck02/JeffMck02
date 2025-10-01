@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Somewhat educated in python
+learning web design stuff
 <!--
 **JeffMck02/JeffMck02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
